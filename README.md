@@ -8,10 +8,10 @@
 
 ---
 
-### 🍎 I’m Currently Learning
+### 🍎 Currently Learning
 - Taking an **AI class** to deepen my understanding of intelligent systems.  
 - Building projects in **Full-Stack Programming** (front-end + back-end).  
-- ⚙Exploring **MLOps** stuffs
+- Exploring **MLOps** stuffs
 
 ---
 
