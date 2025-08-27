@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi! I'm Stephanie
 
-<!--
-**stephanielaurentjiong/stephanielaurentjiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Get to Know Me
+- Master’s student in **Computer and Information Technology** at **UPenn**. 
+- Passionate about **AI, mentorship, and impact-driven solutions**.  
+- Exploring how **AI, robotics, and automation** can transform **manufacturing & supply chains**.  
+- Proud first-time dog parent (sometimes my commits come with paw support 🐾).  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🍎 I’m Currently Learning
+- Taking an **AI class** to deepen my understanding of intelligent systems.  
+- Building projects in **Full-Stack Programming** (front-end + back-end).  
+- ⚙Exploring **MLOps** stuffs
+
+---
+
+### ✨ Philosophy
+- Repurpose what you learn
+- Simulate the world 🌍
