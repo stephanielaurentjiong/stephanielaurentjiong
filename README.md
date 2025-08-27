@@ -3,7 +3,7 @@
 ### 👋 Get to Know Me
 - Master’s student in **Computer and Information Technology** at **UPenn**. 
 - Passionate about **AI, mentorship, and impact-driven solutions**.  
-- Exploring how **AI, robotics, and automation** can transform **manufacturing & supply chains**.  
+- Exploring how **AI, robotics, and automation** can transform **manufacturing**.  
 - Proud first-time dog parent (sometimes my commits come with paw support 🐾).  
 
 ---
